@@ -18,6 +18,8 @@ Pretty much everything below is **experimental** and geared towards hackers and 
 
 ## Hardware
 
+We'll provide CAD files, 3d printer files, electronic board designs and anything else that would allow shops and individualks to create and maintain their own ebikes and bicycles. (snail bikes? lol)
+
 ### Frame Designs
 
 ### Wheel Designs
